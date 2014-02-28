@@ -1,7 +1,7 @@
 {
   "name": "boneyfied",
   "theme": "syntax",
-  "version": "0.0.2",
+  "version": "0.0.0",
   "private": true,
   "description": "A Boneyfied theme",
   "repository": "https://github.com/weblancaster/atom-boneyfied-theme",

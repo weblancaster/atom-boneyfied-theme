@@ -1,0 +1,12 @@
+{
+  "name": "boneyfied",
+  "theme": "syntax",
+  "version": "0.0.2",
+  "private": true,
+  "description": "A Boneyfied theme",
+  "repository": "https://github.com/weblancaster/atom-boneyfied-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
